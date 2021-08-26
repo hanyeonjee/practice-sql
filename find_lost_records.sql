@@ -1,7 +1,7 @@
 -- 코드를 입력하세요
 select ANIMAL_OUTS.ANIMAL_ID, ANIMAL_OUTS.NAME
 from ANIMAL_OUTS
-where ANIMAL_OUTS.ANIMAL_ID not in (select distinct ANIMAL_INS.ANIMAL_ID from ANIMAL_INS);
+where ANIMAL_OUTS.ANIMAL_ID not in (select ANIMAL_INS.ANIMAL_ID from ANIMAL_INS);
 
 
 
