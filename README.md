@@ -8,4 +8,5 @@
 - protection_period.sql(오랜 기간 보호한 동물(2)) : https://programmers.co.kr/learn/courses/30/lessons/59411
 
 [GROUP BY 쿼리]
-- count_animal.sql(고양이와 개는 몇 마리 있을까): https://programmers.co.kr/learn/courses/30/lessons/59040
+- count_animal.sql(고양이와 개는 몇 마리 있을까) : https://programmers.co.kr/learn/courses/30/lessons/59040
+- adoption_time.sql(입양 시각 구하기) : https://programmers.co.kr/learn/courses/30/lessons/59412
